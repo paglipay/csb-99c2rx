@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://paglipay.github.io/csb-99c2rx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://paglipay.github.io/csb-99c2rx/static/js/main.b6d034c0.chunk.js",
+    "main.js.map": "https://paglipay.github.io/csb-99c2rx/static/js/main.b6d034c0.chunk.js.map",
+    "runtime-main.js": "https://paglipay.github.io/csb-99c2rx/static/js/runtime-main.07d42536.js",
+    "runtime-main.js.map": "https://paglipay.github.io/csb-99c2rx/static/js/runtime-main.07d42536.js.map",
+    "static/js/2.b0504009.chunk.js": "https://paglipay.github.io/csb-99c2rx/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://paglipay.github.io/csb-99c2rx/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://paglipay.github.io/csb-99c2rx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://paglipay.github.io/csb-99c2rx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://paglipay.github.io/csb-99c2rx/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07d42536.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b6d034c0.chunk.js"
+  ]
+}
